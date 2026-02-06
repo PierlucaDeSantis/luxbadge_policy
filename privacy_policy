@@ -1,37 +1,55 @@
-Privacy Policy – LuxBadge
+# Privacy Policy – LuxBadge
 
-LuxBadge does not collect, store, process, or share any personal or sensitive user data.
+_Last updated: 2026-02-06_
 
-The application works fully offline and does not require:
+## Overview
 
-user accounts
+LuxBadge respects user privacy and is designed to operate without collecting or processing any personal data.
 
-registration
+The application works entirely offline and does not require an internet connection to function.
 
-analytics
+## Data Collection
 
-tracking technologies
+LuxBadge **does not collect, store, process, or share** any personal or sensitive user data.
 
-network access
+Specifically, the application does **not**:
 
-No information is transmitted from the device to external servers.
+- require user accounts or registration
+- collect analytics or usage statistics
+- use tracking technologies or cookies
+- transmit any data to external servers
 
-LuxBadge does not access:
+## Device Access
 
-contacts
+LuxBadge does **not** access or request permissions for:
 
-location
+- contacts
+- location data
+- camera
+- microphone
+- files or storage
+- device identifiers
 
-camera
+## Third-Party Services
 
-microphone
+LuxBadge does **not** use any third-party services, SDKs, or external libraries that collect user data.
 
-files
+## Network Usage
 
-device identifiers
+LuxBadge does not perform any network communication.  
+No information is sent from the device to external systems.
 
-No third-party services or SDKs are used.
+## Children’s Privacy
 
-If you have questions regarding this privacy policy, you can contact:
+LuxBadge does not target children and does not knowingly collect any data from minors.
 
-info@kreeper.it
+## Changes to This Privacy Policy
+
+If changes are made to this privacy policy, the updated version will be published with a revised date.
+
+## Contact
+
+If you have any questions regarding this privacy policy, you can contact:
+
+📧 **info@kreeper.it**
+
